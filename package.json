@@ -1,0 +1,46 @@
+{
+  "name": "@seatentacle/eslint-plugin",
+  "version": "0.1.0",
+  "description": "An opensource collection of ESlint configs used by SeaTentacle",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seatentacle/eslint-plugin.git"
+  },
+  "keywords": [
+    "seatentacle",
+    "eslint",
+    "plugin"
+  ],
+  "files": [
+    "src",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "author": "Dmitry Gusarov <sea.tentacle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seatentacle/eslint-plugin/issues"
+  },
+  "homepage": "https://github.com/seatentacle/eslint-plugin#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "2.25.0",
+    "@typescript-eslint/parser": "2.25.0",
+    "eslint-plugin-import": "2.20.1",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-react": "7.19.0",
+    "eslint-plugin-react-hooks": "2.5.1"
+  },
+  "peerDependencies": {
+    "eslint": "6.8.0",
+    "typescript": "3.8.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=6.8.0"
+  }
+}

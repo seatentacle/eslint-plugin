@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/seatentacle/eslint-plugin/compare/v1.0.0...v1.1.0) (2020-03-30)
+
+
+### Features
+
+* add rules from the Possible Errors section ([15c3977](https://github.com/seatentacle/eslint-plugin/commit/15c3977d3b860a8b88620326bc9f921603b7b7b0))
+
 # 1.0.0 (2020-03-30)
 
 

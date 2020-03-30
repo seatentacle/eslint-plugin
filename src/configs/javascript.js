@@ -29,6 +29,17 @@ module.exports = {
     ],
     rules: {
       'no-await-in-loop': 'error',
+      'no-console': ['error', {
+        allow: ['error'],
+      }],
+      'no-extra-parens': ['error', 'all', {
+        returnAssign: false,
+        nestedBinaryExpressions: false,
+        ignoreJsx: 'multiline',
+      }],
+      'no-template-curly-in-string': 'error',
+      'no-useless-backreference': 'error',
+      'require-atomic-updates': 'error',
     },
   },
 };

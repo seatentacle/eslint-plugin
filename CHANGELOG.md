@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/seatentacle/eslint-plugin/compare/v1.1.0...v1.2.0) (2020-04-06)
+
+
+### Bug Fixes
+
+* change plugin name in typescript config ([9d6c0f6](https://github.com/seatentacle/eslint-plugin/commit/9d6c0f6d6bc275d8f13d52c4f219e8f9bbd569e7))
+* js config and no-extra-pares rule ([ff8f7dc](https://github.com/seatentacle/eslint-plugin/commit/ff8f7dc8993ad8e7ff95606f6877dd8a4a08a834))
+
+
+### Features
+
+* add semi rule ([c2a0a69](https://github.com/seatentacle/eslint-plugin/commit/c2a0a69f3f1eb29c74b82407adcb9c68e7c5e12d))
+
 ## [1.1.1](https://github.com/seatentacle/eslint-plugin/compare/v1.1.0...v1.1.1) (2020-04-06)
 
 

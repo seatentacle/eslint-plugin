@@ -4,7 +4,7 @@ module.exports = {
     '@typescript-eslint',
   ],
   extends: [
-    'plugin:@seatentalce/javascript',
+    'plugin:@seatentacle/javascript',
     'plugin:@typescript-eslint/recommended',
   ],
 };

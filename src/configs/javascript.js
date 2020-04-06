@@ -29,6 +29,7 @@ module.exports = {
     'eslint:recommended',
   ],
   rules: {
+    /* Possible Errors */
     'no-await-in-loop': 'error',
     'no-console': ['error', {
       allow: ['error'],
@@ -41,5 +42,7 @@ module.exports = {
     'no-template-curly-in-string': 'error',
     'no-useless-backreference': 'error',
     'require-atomic-updates': 'error',
+
+    'semi': 'error',
   },
 };
